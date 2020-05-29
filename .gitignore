@@ -1,0 +1,6 @@
+*.o
+output
+*~
+build/
+Makefile
+install
